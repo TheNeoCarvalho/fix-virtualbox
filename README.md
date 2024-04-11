@@ -26,4 +26,4 @@ sudo modprobe vboxdrv
 
 Entre na `BIOS` e na opção `BOOT`, desative o `security boot`.
 
-Salve as alterações realizadas e reiniciei o computador.
+Salve as alterações realizadas e reinicie o computador.
